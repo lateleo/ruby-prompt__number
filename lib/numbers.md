@@ -10,6 +10,7 @@ Floats (numbers that include a decimal point) and intigers (numbers that do not)
 # What are some common operations and comparisons you would perform on numbers?
 
 Basic arithmetic operations (addition, subtraction, multiplication, division), greater/less than, and conversion between intiger, float and string forms.
+The basic arithmetic operations can be used on both floats and intigers, and the form in which the result is given is dependent on the form of the numbers being operated on. If all the numbers are intigers, then the result will be an intiger (rounded down in the case of division). If, however, one of the numbers is given as a float, then the operation will also return a float.
 
 # What is the difference between the `+` operation on a number versus on a String?
 
